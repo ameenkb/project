@@ -8,33 +8,41 @@ This section includes all the projects and assignments I've done during the cour
 
 ### SECTIONAL CONTENTS
 
-- ASSIGNMENT 1: Basic Prototype (3D PRINTER)
+- [**ASSIGNMENTS**](https://ameenkb.github.io/project/#assignments)
 
-- ASSIGNMENT 2: Doorlock Support (3D PRINTER)
+  - [Basic Prototype (3D PRINTER)](https://ameenkb.github.io/project/#basic-prototype)
 
-- ASSIGNMENT 3: Smartphone stand (LASER CUTTER)
+  - [Doorlock Support (3D PRINTER)](https://ameenkb.github.io/project/#door-lock-support)
 
-- ASSIGNMENT 4: BTS Logo Sticker (VINYL CUTTER)
+  - [Smartphone stand (LASER CUTTER)](https://ameenkb.github.io/project/#smartphone-stand)
 
-- ASSIGNMENT 5: Google Cardboard (LASER CUTTER)
+  - [BTS Logo Sticker (VINYL CUTTER)](https://ameenkb.github.io/project/#bts-logo-sticker)
 
-- ASSIGNMENT 6: [WILL BE UPDATED SOON]
+  - [Google Cardboard (LASER CUTTER)](https://ameenkb.github.io/project/#google-cardboard)
 
-- PROJECT: [WILL BE UPDATED SOON]
+  - [WILL BE UPDATED SOON]
 
-- FREE TIME WORK 1: iPhone 5 (.3dm model)
+- [**PROJECT**](https://ameenkb.github.io/project/#project)
 
-- FREE TIME WORK 2: CFL Bulb (.3dm model)
+  - [WILL BE UPDATED SOON]
+  
+- [**FREE TIME WORKS**](https://ameenkb.github.io/project/#free-time-works)
 
-- FREE TIME WORK 3: Rubix Cube (.3dm model)
+  - [iPhone 5 (.3dm model)](https://ameenkb.github.io/project/#iphone-5)
 
-- FREE TIME WORK 4: Lamborghini Gallardo (.3dm model)
+  - [CFL Bulb (.3dm model)](https://ameenkb.github.io/project/#cfl-bulb)
 
-- FREE TIME WORK 5: iPad Mini (.3dm model)
+  - [Rubix Cube (.3dm model)](https://ameenkb.github.io/project/#rubix-cube)
+
+  - [Lamborghini Gallardo (.3dm model)](https://ameenkb.github.io/project/#lamborghini-gallardo)
+
+  - [iPad Mini (.3dm model)](https://ameenkb.github.io/project/#ipad-mini)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### ASSIGNMENT 1: BASIC PROTOTYPE
+## ASSIGNMENTS
+
+### BASIC PROTOTYPE
 
 - **STEP 1**: Designing the model
 
@@ -68,7 +76,7 @@ This section includes all the projects and assignments I've done during the cour
  
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
  
-### ASSIGNMENT 2: DOOR LOCK SUPPORT
+### DOOR LOCK SUPPORT
 
 - **STEP 1**: Designing the model
 
@@ -102,7 +110,7 @@ This section includes all the projects and assignments I've done during the cour
  
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
   
-### ASSIGNMENT 3: SMARTPHONE STAND
+### SMARTPHONE STAND
 
 - **STEP 1**: Designing the model
 
@@ -130,7 +138,7 @@ This section includes all the projects and assignments I've done during the cour
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### ASSIGNMENT 4: BTS LOGO STICKER
+### BTS LOGO STICKER
 
 - **STEP 1**: Designing the model
 
@@ -156,7 +164,7 @@ This section includes all the projects and assignments I've done during the cour
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### ASSIGNMENT 5: GOOGLE CARDBOARD
+### GOOGLE CARDBOARD
 
 - **STEP 1**: Designing the model
 
@@ -204,15 +212,17 @@ This section includes all the projects and assignments I've done during the cour
  
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
   
-### PROJECT
+## PROJECT
  
 [Will be updated soon]
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/tutorial/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
+## FREE TIME WORKS
  
-### FREE TIME WORK 1: IPHONE 5
+### IPHONE 5
    
 The 3D design of the model was developed using Rhinoceros 3D.
 
@@ -224,7 +234,7 @@ The design file in .3dm format is available [here](https://ameenkb.github.io/App
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### FREE TIME WORK 2: CFL BULB
+### CFL BULB
    
 The 3D design of the model was developed using Rhinoceros 3D.
 
@@ -236,7 +246,7 @@ The design file in .3dm format is available [here](https://ameenkb.github.io/CFL
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### FREE TIME WORK 3: RUBIX CUBE
+### RUBIX CUBE
    
 The 3D design of the model was developed using Rhinoceros 3D.
 
@@ -248,7 +258,7 @@ The design file in .3dm format is available [here](https://ameenkb.github.io/Rub
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### FREE TIME WORK 4: LAMBORGHII GALLARDO
+### LAMBORGHII GALLARDO
    
 The 3D design of the model was developed using Rhinoceros 3D.
 
@@ -260,7 +270,7 @@ The design file in .3dm format is available [here](https://ameenkb.github.io/Gal
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### FREE TIME WORK 5: IPAD MINI
+### IPAD MINI
    
 The 3D design of the model was developed using Rhinoceros 3D.
 
