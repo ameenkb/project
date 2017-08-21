@@ -258,7 +258,7 @@ The design file in .3dm format is available [here](https://ameenkb.github.io/Rub
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### LAMBORGHII GALLARDO
+### LAMBORGHINI GALLARDO
    
 The 3D design of the model was developed using Rhinoceros 3D.
 
