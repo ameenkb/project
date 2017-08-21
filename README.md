@@ -40,7 +40,7 @@ This section includes all the projects and assignments I've done during the cour
 
   After a print time of , the the printed model is taken from the printer plte giving time to cool.
  
- ### ASSIGNMENT 2: DOOR LOCK SUPPORT
+### ASSIGNMENT 2: DOOR LOCK SUPPORT
 
 - **STEP 1**: Designing the model
 
@@ -76,7 +76,7 @@ This section includes all the projects and assignments I've done during the cour
   
 - **COMPLETED MODEL**
 
-### ASSIGNMENT 3: BTS LOGO STICKER
+### ASSIGNMENT 4: BTS LOGO STICKER
 
 - **STEP 1**: Designing the model
 
