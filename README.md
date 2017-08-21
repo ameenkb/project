@@ -38,7 +38,7 @@ This section includes all the projects and assignments I've done during the cour
   
   <img src="https://ameenkb.github.io/Images/BP3D.jpg" height="468" width="832">
   
-  The design file in .3dm format is available here.
+  The design file in .3dm format is available [here](https://ameenkb.github.io/Basic Prototype.3dm).
   
 - **STEP 2**: Transfer to Cura
 
@@ -209,7 +209,7 @@ The design file in .3dm format is available here.
    
 The 3D design of the model was developed using Rhinoceros 3D.
 
-<img src="https://ameenkb.github.io/Images/LG.jpg" height="468" width="832">
+<img src="https://ameenkb.github.io/Images/LG.png" height="468" width="832">
 
 The design file in .3dm format is available here.
 
