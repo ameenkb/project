@@ -102,7 +102,7 @@ This section includes all the projects and assignments I've done during the cour
   
 - **COMPLETED MODEL**
 
-  After a print time of , the the printed model is taken from the printer plte giving time to cool.
+  After a print time of 18 minutes, the the printed model is taken from the printer plte giving time to cool.
   
   <img src="https://ameenkb.github.io/Images/DLS Complete 1.jpg" height="468" width="832">
   
@@ -122,7 +122,7 @@ This section includes all the projects and assignments I've done during the cour
   
 - **STEP 2**: Cutting using Laser cutter
   
-  The .3dm file is printed usiing the laser cutter on a 6mm thick cardboard under 100% power. After an approximate cut time of 2 minutes, the cut piece of the protoype was obtained.
+  The .3dm file is printed using the laser cutter on a 6mm thick cardboard under 100% power. After an approximate cut time of 2 minutes, the cut piece of the protoype was obtained.
   
   <img src="https://ameenkb.github.io/Images/LC Process 3.jpg" height="468" width="832">
   
@@ -133,6 +133,8 @@ This section includes all the projects and assignments I've done during the cour
   <img src="https://ameenkb.github.io/Images/LC Complete 1.jpg" height="468" width="832">
   
 - **COMPLETED MODEL**
+
+  <img src="https://ameenkb.github.io/Images/LC Complete 2.jpg" height="468" width="832">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
@@ -159,6 +161,8 @@ This section includes all the projects and assignments I've done during the cour
   <img src="https://ameenkb.github.io/Images/VC Complete 2.jpg" height="468" width="832">
   
 - **COMPLETED MODEL**
+
+  <img src="https://ameenkb.github.io/Images/VC Complete 3.jpg" height="468" width="832">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
