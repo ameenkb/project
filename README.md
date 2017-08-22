@@ -1,4 +1,4 @@
-## PROJECTS
+## PROJECTS AND WORKS
 
 This section includes all the projects and assignments I've done during the course period. The photos and screenshots of the model developement stages are available with the step explaination.
 
