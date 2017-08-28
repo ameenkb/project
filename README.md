@@ -45,7 +45,7 @@ This section includes all the projects and assignments I've done during the cour
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-## ASSIGNMENTS
+## ASSIGNMENTS AND PROJECTS
 
 ### BASIC PROTOTYPE
 
@@ -267,7 +267,7 @@ This section includes all the projects and assignments I've done during the cour
 
   The 2D design of the model was developed using Autodesk Eagle.
   
-  <img src="https://ameenkb.github.io/Images/PCBS.jpg" height="468" width="832">
+  <img src="https://ameenkb.github.io/Images/PCBS.png" height="468" width="832">
   
   The .sch file of the schematics is available [here](https://ameenkb.github.io/PCB.sch).
   
@@ -351,13 +351,13 @@ This section includes all the projects and assignments I've done during the cour
 
   The printing paint was wiped onto the tshirt using printing wiper.
 
-  <img src="https://ameenkb.github.io/Images/SP 1.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/SP 1.jpg" height="468" width="832">
   
-  <img src="https://ameenkb.github.io/Images/SP 2.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/SP 2.jpg" height="468" width="832">
   
 - **COMPLETED MODEL**
 
-  <img src="https://ameenkb.github.io/Images/SP 3.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/SP 3.jpg" height="468" width="832">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
