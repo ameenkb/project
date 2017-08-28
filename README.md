@@ -245,11 +245,11 @@ This section includes all the projects and assignments I've done during the cour
 
   The prototype is pated on laptop surface manually.
   
-  <img src="https://ameenkb.github.io/Images/VCW 1.jpg" height="468" width="832">
+  <img src="https://ameenkb.github.io/Images/VCW 1.jpg" height="832" width="468">
   
 - **COMPLETED MODEL**
 
-  <img src="https://ameenkb.github.io/Images/VCW 2.jpg" height="468" width="832">
+  <img src="https://ameenkb.github.io/Images/VCW 2.jpg" height="832" width="468">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
@@ -261,7 +261,7 @@ This section includes all the projects and assignments I've done during the cour
 
   The 2D design of the model was developed using Autodesk Eagle.
   
-  <img src="https://ameenkb.github.io/Images/VC Design.jpg" height="468" width="832">
+  <img src="https://ameenkb.github.io/Images/VC Design.jpg" height="468" width="468">
   
   The .sch file of the schematics is available [here](https://ameenkb.github.io/PCB.sch).
   
@@ -271,7 +271,7 @@ This section includes all the projects and assignments I've done during the cour
   
   THe designed circuit is routed using the autoroute feature in Autodesk Eagle
   
-  <img src="https://ameenkb.github.io/Trace.png" height="468" width="832">
+  <img src="https://ameenkb.github.io/Trace.png" height="468" width="468">
   
 - **STEP 3**: Processing using fabmodules.org
 
