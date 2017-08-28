@@ -295,6 +295,68 @@ This section includes all the projects and assignments I've done during the cour
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
+### RING MODEL
+
+- **STEP 1**: Designing the mould
+
+  The 3D DEsign of the mould was printed using Ultimaker 2+ 3D Printer
+  
+- **STEP 2**: Mixing the silicone rubber gel
+  
+  The part A and part B of the silicone gel was mixed together thoroughly and 2 drops of red colour was added.
+  
+  <img src="https://ameenkb.github.io/Images/M 1.jpg" height="832" width="468">
+  
+  <img src="https://ameenkb.github.io/Images/M 4.jpg" height="832" width="468">
+  
+- **STEP 3**: Casting process
+
+  THe prepared rubber gel was casted into the mould.
+  
+  <img src="https://ameenkb.github.io/Images/M 5.jpg" height="832" width="468">
+  
+  <img src="https://ameenkb.github.io/Images/M 6.jpg" height="832" width="468">
+  
+- **STEP 4**: Setting
+
+  The casted model is ept for setting time of 4 hours.
+
+  <img src="https://ameenkb.github.io/Images/M 8.jpg" height="832" width="468">
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
+ 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
+### FABLAB T SHIRT
+
+- **STEP 1**: Designing the model
+
+  The 2D design of the model was developed using CutStudio.
+  
+- **STEP 2**: Cutting using Vinyl cutter
+  
+  The cutstudio file is printed usiing the vinyl cutter on a 15mm X 15mm vinyl sheet piece. After an approximate cut time of 30 seconds, the cut piece of the protoype was obtained.
+  
+- **STEP 3**: Pasting
+
+  After creating holes, the stencil is pasted on to the screen
+  
+- **STEP 4**: Wiping Process
+
+  The printing paint was wiped onto the tshirt using printing wiper.
+
+  <img src="https://ameenkb.github.io/Images/SP 1.jpg" height="832" width="468">
+  
+  <img src="https://ameenkb.github.io/Images/SP 2.jpg" height="832" width="468">
+  
+- **COMPLETED MODEL**
+
+  <img src="https://ameenkb.github.io/Images/SP 3.jpg" height="832" width="468">
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
+ 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 
 ## FREE TIME WORKS
  
