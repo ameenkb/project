@@ -203,19 +203,21 @@ This section includes all the projects and assignments I've done during the cour
  
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-### ASSIGNMENT 6: 
+### 6 FACED DIE 
 
 - **STEP 1**: Designing the model
 
   The 3D design of the model was developed using Rhinoceros 3D.
   
-  The design file in .3dm format is available here.
+  <img src="https://ameenkb.github.io/Dice.png" height="468" width="832">
+  
+  The design file in .3dm format is available [here](https://ameenkb.github.io/Dice.3dm).
   
 - **STEP 2**: Transfer to Cura
 
   The .3dm file is converted to .stl fil to be edited in Cura software, for adding support structure, analysing dimensions and build time.
   
-  The design file in .stl format is aailable here.
+  The design file in .stl format is aailable [here](https://ameenkb.github.io/Dice.stl).
   
 - **STEP 3**: Printing using Ultimaker 2+
 
@@ -228,6 +230,71 @@ This section includes all the projects and assignments I've done during the cour
   [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+  
+### WINGS LOGO
+
+- **STEP 1**: Designing the model
+
+  The 2D design of the model was developed using CutStudio.
+  
+- **STEP 2**: Cutting using Vinyl cutter
+  
+  The cutstudio file is printed usiing the vinyl cutter on a 15mm X 15mm vinyl sheet piece. After an approximate cut time of 30 seconds, the cut piece of the protoype was obtained.
+  
+- **STEP 3**: Pasting
+
+  The prototype is pated on laptop surface manually.
+  
+  <img src="https://ameenkb.github.io/Images/VCW 1.jpg" height="468" width="832">
+  
+- **COMPLETED MODEL**
+
+  <img src="https://ameenkb.github.io/Images/VCW 2.jpg" height="468" width="832">
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
+ 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
+### PCB CIRCUIT
+
+- **STEP 1**: Designing the model
+
+  The 2D design of the model was developed using Autodesk Eagle.
+  
+  <img src="https://ameenkb.github.io/Images/VC Design.jpg" height="468" width="832">
+  
+  The .sch file of the schematics is available [here](https://ameenkb.github.io/PCB.sch).
+  
+  The .brd file of the board is available [here](https://ameenkb.github.io/PCB.brd).
+  
+- **STEP 2**: Autorouting using Eagle
+  
+  THe designed circuit is routed using the autoroute feature in Autodesk Eagle
+  
+  <img src="https://ameenkb.github.io/Trace.png" height="468" width="832">
+  
+- **STEP 3**: Processing using fabmodules.org
+
+  The .png format of Trace is uploaded to fabmodules.org and procesed with desired values
+  
+  <img src="https://ameenkb.github.io/Images/PCBD 1.jpg" height="468" width="832">
+  
+- **STEP 4**: Milling using ShopBot CNC
+
+  The processed gcode of the PCB design is milled using Shopbot CNC machine.
+  
+  <img src="https://ameenkb.github.io/Images/PCBM 1.jpg" height="468" width="832">
+  
+  <img src="https://ameenkb.github.io/Images/PCBM 6.jpg" height="468" width="832">
+  
+- **COMPLETED MODEL**
+
+  <img src="https://ameenkb.github.io/Images/PCBM 5.jpg" height="468" width="832">
+
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
+ 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 
 ## FREE TIME WORKS
  
