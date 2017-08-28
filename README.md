@@ -229,7 +229,7 @@ This section includes all the projects and assignments I've done during the cour
 
   After a print time of 8 minutes, the the printed model is taken from the printer plte giving time to cool.
   
-  <img src="https://ameenkb.github.io/Images/Dice Final.png" height="468" width="832">
+  <img src="https://ameenkb.github.io/Images/Dice Final.jpg" height="468" width="832">
   
   [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
