@@ -217,6 +217,8 @@ This section includes all the projects and assignments I've done during the cour
 
   The .3dm file is converted to .stl fil to be edited in Cura software, for adding support structure, analysing dimensions and build time.
   
+  <img src="https://ameenkb.github.io/Images/Dice Cura.png" height="468" width="832">
+  
   The design file in .stl format is aailable [here](https://ameenkb.github.io/Dice.stl).
   
 - **STEP 3**: Printing using Ultimaker 2+
@@ -225,7 +227,9 @@ This section includes all the projects and assignments I've done during the cour
   
 - **COMPLETED MODEL**
 
-  After a print time of , the the printed model is taken from the printer plte giving time to cool.
+  After a print time of 8 minutes, the the printed model is taken from the printer plte giving time to cool.
+  
+  <img src="https://ameenkb.github.io/Images/Dice Final.png" height="468" width="832">
   
   [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
@@ -236,6 +240,8 @@ This section includes all the projects and assignments I've done during the cour
 - **STEP 1**: Designing the model
 
   The 2D design of the model was developed using CutStudio.
+  
+  ![Wings](https://ih1.redbubble.net/image.343948930.1257/flat,800x800,075,f.u1.jpg)
   
 - **STEP 2**: Cutting using Vinyl cutter
   
@@ -249,7 +255,7 @@ This section includes all the projects and assignments I've done during the cour
   
 - **COMPLETED MODEL**
 
-  <img src="https://ameenkb.github.io/Images/VCW 2.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/VCW.jpg" height="684" width="635">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
@@ -261,7 +267,7 @@ This section includes all the projects and assignments I've done during the cour
 
   The 2D design of the model was developed using Autodesk Eagle.
   
-  <img src="https://ameenkb.github.io/Images/VC Design.jpg" height="468" width="468">
+  <img src="https://ameenkb.github.io/Images/PCBS.jpg" height="468" width="832">
   
   The .sch file of the schematics is available [here](https://ameenkb.github.io/PCB.sch).
   
