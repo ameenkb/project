@@ -8,7 +8,7 @@ This section includes all the projects and assignments I've done during the cour
 
 ### SECTIONAL CONTENTS
 
-- [**ASSIGNMENTS**](https://ameenkb.github.io/project/#assignments)
+- [**ASSIGNMENTS AND PROJECTS**](https://ameenkb.github.io/project/#assignments-and-projects)
 
   - [Basic Prototype (3D PRINTER)](https://ameenkb.github.io/project/#basic-prototype)
 
@@ -20,11 +20,16 @@ This section includes all the projects and assignments I've done during the cour
 
   - [Google Cardboard (LASER CUTTER)](https://ameenkb.github.io/project/#google-cardboard)
 
-  - [WILL BE UPDATED SOON]
-
-- [**PROJECT**](https://ameenkb.github.io/project/#project)
-
-  - [WILL BE UPDATED SOON]
+  - [6-Faced Die (3D PRINTER)](https://ameenkb.github.io/project/#6-faced-die)
+  
+  - [Wings Logo (VINYL CUTTER)](https://ameenkb.github.io/project/#wings-logo)
+  
+  - [PCB Circuit (CNC)](https://ameenkb.github.io/project/#pcb-circuit)
+  
+  - [Ring Model (MOULD AND CAST)](https://ameenkb.github.io/project/#ring-model)
+  
+  - [Fablab T-Shirt (SCREEN PRINT)](https://ameenkb.github.io/project/#fablab-t-shirt)
+  
   
 - [**FREE TIME WORKS**](https://ameenkb.github.io/project/#free-time-works)
 
@@ -174,17 +179,25 @@ This section includes all the projects and assignments I've done during the cour
 
   The 2D design of the model was developed using Rhinoceros 3D.
   
-  The design file in .3dm format is available here.
+  <img src="https://ameenkb.github.io/GCD.png" height="468" width="832">
+  
+  The design file in .3dm format is available [here](https://ameenkb.github.io/GCD.3dm).
   
 - **STEP 2**: Cutting using Laser cutter
   
   The .3dm file is printed usiing the laser cutter on a 6mm thick cardboard under 100% power. After an approximate cut time of 2 minutes, the cut piece of the protoype was obtained.
   
+  <img src="https://ameenkb.github.io/Images/GC 1.jpg" height="468" width="832">
+  
 - **STEP 3**: Assembly
 
-  The prototype is assebmled manually.
+  The prototype is assembled manually.
+  
+  <img src="https://ameenkb.github.io/Images/Cardboard 1.jpg" height="468" width="832">
   
 - **COMPLETED MODEL**
+
+  <img src="https://ameenkb.github.io/Images/Cardboard 2.jpg" height="468" width="832">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
@@ -215,14 +228,6 @@ This section includes all the projects and assignments I've done during the cour
   [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
-  
-## PROJECT
- 
-[Will be updated soon]
-
-[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
- 
-![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ## FREE TIME WORKS
  
