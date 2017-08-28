@@ -299,29 +299,29 @@ This section includes all the projects and assignments I've done during the cour
 
 - **STEP 1**: Designing the mould
 
-  The 3D DEsign of the mould was printed using Ultimaker 2+ 3D Printer
+  The 3D Design of the mould was printed using Ultimaker 2+ 3D Printer
   
 - **STEP 2**: Mixing the silicone rubber gel
   
   The part A and part B of the silicone gel was mixed together thoroughly and 2 drops of red colour was added.
   
-  <img src="https://ameenkb.github.io/Images/M 1.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/M 3.jpg" height="468" width="832">
   
-  <img src="https://ameenkb.github.io/Images/M 4.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/M 4.jpg" height="468" width="832">
   
 - **STEP 3**: Casting process
 
   THe prepared rubber gel was casted into the mould.
   
-  <img src="https://ameenkb.github.io/Images/M 5.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/M 5.jpg" height="468" width="832">
   
-  <img src="https://ameenkb.github.io/Images/M 6.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/M 6.jpg" height="468" width="832">
   
 - **STEP 4**: Setting
 
   The casted model is ept for setting time of 4 hours.
 
-  <img src="https://ameenkb.github.io/Images/M 8.jpg" height="832" width="468">
+  <img src="https://ameenkb.github.io/Images/M 8.jpg" height="468" width="832">
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/project/#sectional-contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
  
